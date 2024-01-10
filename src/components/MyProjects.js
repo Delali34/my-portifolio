@@ -55,7 +55,7 @@ const MyProjects = () => {
           <div className=" mb-[50px] border-white grid grid-cols-1 place-items-center border-[1px] p-5">
             {/* Image div */}
             <a
-              href="https://wi-care.netlify.app/"
+              href="https://www.leadafrique.org/"
               target="_blank"
               className="w-[380px] h-[300px] rounded-md flex justify-center overflow-hidden"
             >

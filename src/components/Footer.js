@@ -5,14 +5,14 @@ import { SiGmail } from "react-icons/si";
 const Footer = () => {
   return (
     <div className="bg2 py-[100px] px-[50px]" id="footer">
-      <div className="md:flex justify-between items-center">
-        <p className="text-[40px] md:text-7xl font-poppins font-bold text-black md:max-w-2xl text-left">
+      <div className="md:flex justify-center items-center">
+        <p className="text-[40px] md:text-7xl font-poppins font-bold text-black md:max-w-2xl text-center">
           Get In
           <span className="text-black"> Touch </span>
         </p>
       </div>
 
-      <section className="mt-[50px]">
+      <section className="mt-[50px] text-center">
         {/* Work enquiries */}
         <div className="mt-[20px] md:mt-0">
           <h2 className="font-bold font-poppins">Work enquiries</h2>

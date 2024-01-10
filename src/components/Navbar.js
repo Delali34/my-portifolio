@@ -3,7 +3,7 @@ import { FaGithub, FaInstagram, FaLinkedin, FaMailBulk } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 import { FiMenu } from "react-icons/fi";
 import "./myStyle.css";
-import cv from "../components/images/Anyomitse Ernest Delali Resume (1).pdf";
+import cv from "../components/images/Ernest Anyomitse Delali.Cv Updated.pdf";
 import MobileNav from "./MobileNav";
 import { useInView } from "react-intersection-observer";
 function FadeInSection(props) {
